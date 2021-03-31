@@ -5,7 +5,7 @@
 
 I'm Yassine, a software developer who is passionate about writing code, solving problems, automating stuff, and building softwares.
 
-- 🔭 I specialise in  web development using Python and ReactJS and i'm working on a professional level since 2017.
+- 🔭 I specialise in  web development using Python and ReactJS, i'm working on a professional level since 2017.
 - 📚 I’m interested in software architecture and building high quality maintainable softwares on a large scale.
 - 👯 I like contributing in open source softwares. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yassine-cheffai-2431b5104/) [Gmail](mailto:yacincheffai@gmail.com)
