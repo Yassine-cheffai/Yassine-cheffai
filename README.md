@@ -5,7 +5,7 @@
 
 I'm Yassine, a software developer who is passionate about writing code, solving problems, automating stuff, and building softwares.
 
-- 🔭 I specialise in  web development using Python and ReactJS and lately i fall in love with Rust :sparkling_heart:
+- 🔭 I specialise in  web development using Python and ReactJS and lately, i fall in love with Rust :sparkling_heart:
 - :briefcase:	I'm working on a professional level since 2017.
 - 📚 I’m interested in software architecture and building high quality maintainable softwares.
 - 👯 I like contributing in open source softwares. 
